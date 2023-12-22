@@ -1,0 +1,6 @@
+#gitignore
+.freshsalesenv
+Freshsales
+.vscode
+db.sqlite3
+server
